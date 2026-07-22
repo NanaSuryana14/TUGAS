@@ -1,4 +1,4 @@
-# Tugas Laporan Praktikum Pemrograman Aplikasi Perangkat Bergerak (PAPB)
+# Tugas Laporan Praktikum 
 
 Nama: Nana Suryana  
 NIM: 14523033  
