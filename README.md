@@ -1,4 +1,4 @@
-# Tugas Laporan Praktikum 
+# Tugas Dan Praktikum 
 
 Nama: Nana Suryana  
 NIM: 14523033  
